@@ -3,8 +3,6 @@
 ### Currently listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vz20mkwo9z3799oixnrhuje8o&cover_image=true&theme=novatorem&bar_color=6852b7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vz20mkwo9z3799oixnrhuje8o&redirect=true)
 ***
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Lykoto-M&show_icons=true&theme=dark)
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=Lykoto-M&show_icons=true&theme=dark)
 ***
 - 🔭 I’m currently working on a Lost Ark Discord bot!
