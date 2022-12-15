@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Max!🌌
 ***
-- 🔭 I’m currently working on a Lost Ark Discord bot!
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: Discord: MaximeM#4311
+- 🌱 I’m currently learning how to cope.
+- 😄 Pronouns: he/him
+- 📫 How to reach me? Discord: MaximeM#4311
 ***
 ### Currently listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vz20mkwo9z3799oixnrhuje8o&cover_image=true&theme=novatorem&bar_color=6852b7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vz20mkwo9z3799oixnrhuje8o&redirect=true)
