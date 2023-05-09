@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Max!🌌
+### Hi there 👋, I'm Maxime!🌌
 ***
 - 🌱 I’m currently learning how to cope.
 - 😄 Pronouns: he/him
